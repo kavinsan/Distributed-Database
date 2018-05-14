@@ -1,0 +1,21 @@
+host=jdbc:oracle:thin:@oracle.scs.ryerson.ca:1521:orcl
+user=
+pass=
+dbname=11c-Version
+
+host=jdbc:oracle:thin:@localhost:1521:
+user=
+pass=
+dbname=XE-Version
+---------------------Lines including and past this point will not be read---------------------
+
+
+host=jdbc:oracle:thin:@192.168.56.101:1521:orcl12c
+user=system
+pass=oracle
+dbName=VB-Version
+
+host=jdbc:oracle:thin:@oracle12c.scs.ryerson.ca:1521:orcl12c
+user=
+pass=
+dbname=12c-Version
